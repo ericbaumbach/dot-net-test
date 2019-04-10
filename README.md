@@ -1,4 +1,3 @@
-![Screenshot](logo_saipher.png)
 # Teste para candidatos à vaga de Analista Programador .NET
 
 ## Objetivo do Teste
