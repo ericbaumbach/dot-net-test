@@ -32,7 +32,7 @@ Caso a sua escolha seja por fazer um projeto WEB, o stack a seguir será um dife
 - Banco de Dados SQL Server 2008+
 
 #### Frontend
-- AngularJs 1
+- Vue.js
 (Não se preocupe, não iremos avaliar seu código HTML/CSS, o importante aqui será o seu código Javascript)
 
 ## Esperamos que você:
